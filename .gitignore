@@ -29,3 +29,12 @@ yarn.lock
 
 #mac
 .DS_Store
+
+#cache file
+.cache
+
+#distributable file
+dist/
+
+#test snapshots
+__snapshots__/
